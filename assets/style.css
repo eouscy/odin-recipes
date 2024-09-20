@@ -1,0 +1,35 @@
+* {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+  background-color: rgba(0, 0, 0, 0.836);
+  text-align: center;
+}
+
+h1,
+h2,
+h3 {
+  color: rgb(236, 186, 109);
+}
+
+p {
+  color: white;
+}
+
+#list {
+  text-align: center;
+  margin: 0 auto;
+  padding: 0;
+  list-style: none;
+}
+
+.list-item {
+  color: white;
+  margin: 5px;
+}
+
+.list-item > a {
+  color: white;
+  text-decoration: none;
+}
